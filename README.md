@@ -1,1 +1,2 @@
 # gitignore
+texto 2
